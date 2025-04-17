@@ -1,7 +1,7 @@
 # CodeBondhu 🇧🇩  
 *A Bangladeshi Software Engineer’s Journey to Crack Tech Interviews & Build a Career*  
 
-![Banner](assets/banner.png) *Add a local vibe banner (e.g., Lalbagh Fort + code snippets)*  
+![Banner](assets/Codebondhu.jpg)  
 
 ## 🚀 Quick Start  
 1. **Clone the repo**: `git clone https://github.com/yourusername/CodeBondhu.git`  
